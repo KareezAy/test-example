@@ -1,3 +1,0 @@
-create a calculator that adds two numbers
-
-[finishes #155106475]
